@@ -32,8 +32,8 @@ class _TresOnceStoreState extends State<TresOnceStore> {
   }
 
   String titulo = "Inicio de sesión";
-  String usr = "";
-  String pwd = "";
+  String usr = "GadyelMtz";
+  String pwd = "20400775";
   TextEditingController txtUsr = TextEditingController();
   TextEditingController txtPwd = TextEditingController();
 
